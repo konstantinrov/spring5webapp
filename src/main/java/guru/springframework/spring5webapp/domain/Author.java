@@ -8,6 +8,11 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 import java.util.Set;
 
+/**
+ * @author Konstantin Romanov
+ * @created 23/03/2020 - 23:51
+ * @project spring5webapp
+ */
 @Entity
 public class Author {
 
